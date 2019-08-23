@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "122557149417",
+    "firebase_url": "https://xamaringasample.firebaseio.com",
+    "project_id": "xamaringasample",
+    "storage_bucket": "xamaringasample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122557149417:android:51b856bcab0843ab",
+        "android_client_info": {
+          "package_name": "com.sudhersonv.xamaringasampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122557149417-rps6518gtgft25hv8ecc5b62ig4bku1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXmfa5vwk-dxsQovrSlSVlDaqKbrv5oVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122557149417-rps6518gtgft25hv8ecc5b62ig4bku1r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122557149417-9cemacmjr0mgqiklfam5ci70q2a8tf42.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sudhersonv.xamaringasampleapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
